@@ -21,3 +21,7 @@ Descrição: Lista a média salarial por nível de experiência, ordenada por m�
 4. Análise da Relação entre Salário e Média por Categoria de Trabalho
 
 Descrição: Categoriza os salários em relação à média salarial de cada categoria de trabalho.
+
+
+Os dados foram obtidos no Kaggle a partir do conjunto de dados [jobs_in_data](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
+
